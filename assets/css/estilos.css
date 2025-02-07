@@ -5,12 +5,15 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/R.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
+.pie-pagina{
+  color: white;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
